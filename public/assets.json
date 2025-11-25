@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Dragon Slayer Sword",
+    "image": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 2,
+    "name": "Magic Shield",
+    "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 3,
+    "name": "Golden Bow",
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 4,
+    "name": "Crystal Staff",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  },
+  {
+    "id": 5,
+    "name": "Shadow Dagger",
+    "image": "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 6,
+    "name": "Phoenix Helm",
+    "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf622?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 7,
+    "name": "Thunder Axe",
+    "image": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?w=400&h=300&fit=crop",
+    "owner": "0xfedcba0987654321"
+  },
+  {
+    "id": 8,
+    "name": "Frost Armor",
+    "image": "https://images.unsplash.com/photo-1600456899121-68eda5705257?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 9,
+    "name": "Mystic Orb",
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 10,
+    "name": "Legendary Crown",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  },
+  {
+    "id": 11,
+    "name": "Demon Scythe",
+    "image": "https://images.unsplash.com/photo-1517677129300-07b130802f46?w=400&h=300&fit=crop",
+    "owner": "0xfedcba0987654321"
+  },
+  {
+    "id": 12,
+    "name": "Holy Gauntlets",
+    "image": "https://images.unsplash.com/photo-1526045431048-f857369baa09?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 13,
+    "name": "Celestial Wings",
+    "image": "https://images.unsplash.com/photo-1578301978018-3005759f48f7?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 14,
+    "name": "Eternal Flame Torch",
+    "image": "https://images.unsplash.com/photo-1551191916-2fc079c89f3f?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  },
+  {
+    "id": 15,
+    "name": "Spectral Cloak",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 16,
+    "name": "Venom Spear",
+    "image": "https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0?w=400&h=300&fit=crop",
+    "owner": "0xfedcba0987654321"
+  },
+  {
+    "id": 17,
+    "name": "Ancient Tome",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 18,
+    "name": "Bloodstone Ring",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  },
+  {
+    "id": 19,
+    "name": "Storm Caller Hammer",
+    "image": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 20,
+    "name": "Void Walker Boots",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop",
+    "owner": "0xfedcba0987654321"
+  },
+  {
+    "id": 21,
+    "name": "Sapphire Amulet",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 22,
+    "name": "Titan's Greatsword",
+    "image": "https://images.unsplash.com/photo-1592207684434-e38e08526e14?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  },
+  {
+    "id": 23,
+    "name": "Moonlight Katana",
+    "image": "https://images.unsplash.com/photo-1631624215749-b10b3dd7bca7?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 24,
+    "name": "Infernal Mask",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+    "owner": "0xfedcba0987654321"
+  },
+  {
+    "id": 25,
+    "name": "Nature's Wrath Staff",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 26,
+    "name": "Chaos Crossbow",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  },
+  {
+    "id": 27,
+    "name": "Radiant Platemail",
+    "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=400&h=300&fit=crop",
+    "owner": "0x9999999999999999"
+  },
+  {
+    "id": 28,
+    "name": "Shadowbane Whip",
+    "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=400&h=300&fit=crop",
+    "owner": "0xfedcba0987654321"
+  },
+  {
+    "id": 29,
+    "name": "Arcane Grimoire",
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop",
+    "owner": "0x1234567890abcdef"
+  },
+  {
+    "id": 30,
+    "name": "Divine Chalice",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "owner": "0xabcdef1234567890"
+  }
+]
