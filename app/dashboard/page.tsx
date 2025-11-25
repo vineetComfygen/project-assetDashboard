@@ -458,13 +458,7 @@ export default function Dashboard() {
                   </div>
                 </div>
 
-                <motion.button
-                  whileHover={{ scale: 1.02 }}
-                  whileTap={{ scale: 0.98 }}
-                  className="w-full px-6 py-4 bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-lg font-semibold shadow-lg hover:shadow-xl transition-shadow"
-                >
-                  View on Blockchain
-                </motion.button>
+         
               </div>
             </motion.div>
           </motion.div>
